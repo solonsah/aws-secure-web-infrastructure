@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
+#This script performs formatting checks, initialization, and validation only. 
+#It deliberately contains no terraform plan, terraform apply, credentials, or deployment action.
 * text=auto
+
+
+*.sh text eol=lf
+*.tf text eol=lf
+*.md text eol=lf
