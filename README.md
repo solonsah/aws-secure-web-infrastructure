@@ -4,6 +4,10 @@ A modular Terraform project that models a secure and highly available web applic
 
 > This repository is a portfolio and learning project. It uses fictional names, private example networks, and no production credentials or employer infrastructure.
 
+
+[![Terraform Validation](https://github.com/solonsah/aws-secure-web-infrastructure/actions/workflows/terraform-validation.yml/badge.svg)](https://github.com/solonsah/aws-secure-web-infrastructure/actions/workflows/terraform-validation.yml)
+
+
 ## Project Objectives
 
 - Define repeatable AWS infrastructure using Terraform
